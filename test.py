@@ -1,3 +1,4 @@
-def test_func(x):
-  return x * 2
+import colorama
 
+def test_func():
+    return colorama.__version__
