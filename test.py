@@ -1,3 +1,2 @@
-def test_func(x):
+def multiply_by_two(x):
   return x * 2
-
